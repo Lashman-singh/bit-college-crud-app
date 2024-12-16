@@ -1,0 +1,42 @@
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\bin\Debug\Utility.dll
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\bin\Debug\Utility.pdb
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.dll
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 1\Assignment 01 Files\Assignment 01 Files\BITCollege_LS\Utility\bin\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 1\Assignment 01 Files\Assignment 01 Files\BITCollege_LS\Utility\bin\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 1\Assignment 01 Files\Assignment 01 Files\BITCollege_LS\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 1\Assignment 01 Files\Assignment 01 Files\BITCollege_LS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 1\Assignment 01 Files\Assignment 01 Files\BITCollege_LS\Utility\obj\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 1\Assignment 01 Files\Assignment 01 Files\BITCollege_LS\Utility\obj\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 2\BITCollege_LS\Utility\bin\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 2\BITCollege_LS\Utility\bin\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 2\BITCollege_LS\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 2\BITCollege_LS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 2\BITCollege_LS\Utility\obj\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 2\BITCollege_LS\Utility\obj\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 3\BITCollege_LS\Utility\bin\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 3\BITCollege_LS\Utility\bin\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 3\BITCollege_LS\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 3\BITCollege_LS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 3\BITCollege_LS\Utility\obj\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 3\BITCollege_LS\Utility\obj\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 4\BITCollege_LS\Utility\bin\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 4\BITCollege_LS\Utility\bin\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 4\BITCollege_LS\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 4\BITCollege_LS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 4\BITCollege_LS\Utility\obj\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 4\BITCollege_LS\Utility\obj\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 5\BITCollege_LS\Utility\bin\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 5\BITCollege_LS\Utility\bin\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 5\BITCollege_LS\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 5\BITCollege_LS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 5\BITCollege_LS\Utility\obj\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 5\BITCollege_LS\Utility\obj\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\Utility\bin\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\Utility\bin\Debug\Utility.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\Utility\obj\Debug\Utility.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\Utility\obj\Debug\Utility.pdb

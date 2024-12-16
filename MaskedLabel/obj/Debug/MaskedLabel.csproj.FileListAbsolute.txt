@@ -1,0 +1,28 @@
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\mande\source\repos\BITCollege_MK\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\mande\source\repos\BITCollege_MK\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\mande\source\repos\BITCollege_MK\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\mande\source\repos\BITCollege_MK\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+C:\Users\mande\source\repos\BITCollege_MK\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+C:\Users\mande\source\repos\BITCollege_MK\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\mande\source\repos\BITCollege_MK\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\cdsouza\Downloads\BITCollege_MK 4\BITCollege_MK\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\cdsouza\Downloads\BITCollege_MK 4\BITCollege_MK\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\cdsouza\Downloads\BITCollege_MK 4\BITCollege_MK\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\cdsouza\Downloads\BITCollege_MK 4\BITCollege_MK\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+C:\Users\cdsouza\Downloads\BITCollege_MK 4\BITCollege_MK\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+C:\Users\cdsouza\Downloads\BITCollege_MK 4\BITCollege_MK\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\cdsouza\Downloads\BITCollege_MK 4\BITCollege_MK\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+E:\RED RIVER\Term 3\Programming 3\Assignment 6\BITCollege_LS\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
